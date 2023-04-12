@@ -1,0 +1,7 @@
+asciiname=erden=101+114+100+101+110=526
+asciisurname=aydogdu=97+121+100+111+103+100+117=749
+asciitotal=526+749=1275
+timernumber=(1275%14)+1=1+1=2
+duration=(749%1500)30=22470
+ledpinnubmer=(1275%4)+12=15
+arrnumber=65535
